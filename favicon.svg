@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180">
+  <!-- Dark background -->
+  <rect width="500" height="180" fill="#0a0a0f"/>
+
+  <!-- Corner brackets - top left -->
+  <line x1="12" y1="12" x2="40" y2="12" stroke="#7fff6a" stroke-width="3"/>
+  <line x1="12" y1="12" x2="12" y2="40" stroke="#7fff6a" stroke-width="3"/>
+
+  <!-- Corner brackets - top right -->
+  <line x1="488" y1="12" x2="460" y2="12" stroke="#7fff6a" stroke-width="3"/>
+  <line x1="488" y1="12" x2="488" y2="40" stroke="#7fff6a" stroke-width="3"/>
+
+  <!-- Corner brackets - bottom left -->
+  <line x1="12" y1="168" x2="40" y2="168" stroke="#7fff6a" stroke-width="3"/>
+  <line x1="12" y1="168" x2="12" y2="140" stroke="#7fff6a" stroke-width="3"/>
+
+  <!-- Corner brackets - bottom right -->
+  <line x1="488" y1="168" x2="460" y2="168" stroke="#7fff6a" stroke-width="3"/>
+  <line x1="488" y1="168" x2="488" y2="140" stroke="#7fff6a" stroke-width="3"/>
+
+  <!-- Full name on one line -->
+  <text x="250" y="95" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#e8e8f0" text-anchor="middle" letter-spacing="-0.5">
+    Dhananjaya Kumar <tspan fill="#7fff6a">G P</tspan>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="250" y="130" font-family="monospace" font-size="15" fill="#666680" text-anchor="middle" letter-spacing="5">SOFTWARE ENGINEER</text>
+</svg>
